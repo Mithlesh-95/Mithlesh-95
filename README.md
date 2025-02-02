@@ -1,11 +1,31 @@
-# Hi, I’m Mithlesh Kumar 👋
+# About Me
 
-- 👀 I’m interested in **web development** and **full-stack development**.
-- 🌱 I’ve learned **C**, **C++**, and **Java**. Currently, I'm focused on **JavaScript** and its frameworks.
-- 💞️ I’m looking to collaborate on **open-source projects** and **real-life problem-solving apps**.
-- 📫 How to reach me: You can contact me via email at **mithlesh934639@gmail.com**.
+👋 Hi there! I'm **Markanti Mithlesh Kumar**, an enthusiastic **B.Tech student** passionate about **web development** and constantly exploring new technologies.
 
-<!---
-Mithlesh-95/Mithlesh-95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔭 Current Focus
+I'm currently focused on improving my skills in **web development**, particularly in **HTML**, **CSS**, and **JavaScript**. I've completed some exciting tasks, like designing responsive navigation menus and structuring sections using pure HTML and CSS during my internship at **SkillCraft Technology**. I’m always eager to take on new challenges and build meaningful projects.
+
+### 🌱 I'm currently learning:
+- Advanced **JavaScript**
+- **React.js** and **Flutter**
+- **Backend development** (Node.js, Express)
+- **App Design** (UI/UX using **Figma**)
+
+### 📚 My Interests:
+- Web development (front-end & back-end)
+- Building mobile applications
+- Participating in hackathons
+- Exploring new programming languages and frameworks
+- Reading science fiction novels and writing stories
+
+### 🌍 Connect with me:
+- LinkedIn: [www.linkedin.com/in/markanti-mithlesh-kumar-944309297]
+- Email: [238r1a6695@gmail.com]
+- GitHub: [https://github.com/Mithlesh-95/]
+
+I'm always open to collaborating on exciting projects and learning from others! Let’s connect! 🚀
+
+---
+
+### Fun Fact:
+I love learning and applying my skills to solve real-life problems through coding. I'm constantly pushing myself to improve and grow. Looking forward to what’s next in my coding journey!
