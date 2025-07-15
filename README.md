@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Mithlesh-95&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Mithlesh-95's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mithlesh-95&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 
 # About Me
 
