@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=Mithlesh-95&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Mithlesh-95's GitHub Stats" />
+
 # About Me
 
 👋 Hi there! I'm **Markanti Mithlesh Kumar**, an enthusiastic **B.Tech student** passionate about **web development** and constantly exploring new technologies.
