@@ -1,34 +1,31 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Mithlesh-95&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+<h1 align="center">Hi 👋, I'm Markanti Mithlesh Kumar</h1>
+<h3 align="center">A passionate B.Tech student diving deep into Web Development & Software Engineering</h3>
 
-<img src="https://streak-stats.demolab.com?user=Mithlesh-95&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithlesh-95&layout=compact&theme=radical&hide_border=true" />
+---
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **Markanti Mithlesh Kumar**, a passionate B.Tech student diving deep into the world of **Web Development** and **Software Engineering**.
-
-I love building projects that are functional, fast, and fun. I'm currently leveling up my **frontend & backend skills** while also exploring mobile app development and UI/UX design.
+I'm a curious, self-driven developer constantly learning and building. I enjoy turning ideas into functional products, solving real-life problems, and growing through open-source contributions and side projects.
 
 ---
 
 ## 🚀 Current Focus
 
 - 🔨 Strengthening my skills in **HTML, CSS, JavaScript**
-- 🔁 Practicing **responsive UI components** (menus, layouts)
 - 🌐 Learning **React.js** and **Flutter**
-- 🔧 Exploring backend with **Node.js & Express**
-- 🎨 Designing user-friendly UIs in **Figma**
+- 🔧 Exploring backend development with **Node.js & Express**
+- 🎨 Practicing UI/UX design using **Figma**
+- 🛠️ Building real-world apps & participating in open source
 
 ---
 
-## 💡 What I'm Interested In
+## 💡 Interests
 
-- 🖥️ Web Development (Full-Stack)
+- 🖥️ Full-Stack Web Development
 - 📱 Mobile App Development
-- 💼 Open Source & Hackathons
-- 🧠 Learning new tech & frameworks
-- 📚 Reading Sci-Fi & writing stories
+- 💼 Hackathons & Collaboration
+- 🔍 Exploring new frameworks & dev tools
+- 📚 Sci-fi novels & creative writing
 
 ---
 
@@ -53,15 +50,26 @@ I love building projects that are functional, fast, and fun. I'm currently level
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithlesh-95&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=Mithlesh-95&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithlesh-95&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
 ## 🌍 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/markanti-mithlesh-kumar-944309297)
-- 📬 Email: [238r1a6695@gmail.com](mailto:238r1a6695@gmail.com)
-- 💻 [GitHub Profile](https://github.com/Mithlesh-95)
+- 📬 [Email](mailto:238r1a6695@gmail.com)
+- 💻 [GitHub](https://github.com/Mithlesh-95)
 
 ---
 
 ## 🤩 Fun Fact
 
 I love solving real-life problems through code and turning ideas into products.  
-Curious by nature, I’m always learning and building. Let's connect and create something amazing! 🚀
+I'm curious by nature, constantly learning, and always ready to collaborate on meaningful projects.  
+Let’s build something amazing together! 🚀
